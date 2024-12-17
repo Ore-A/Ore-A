@@ -10,6 +10,7 @@
   - [Turbofan Engine Performance Optimization](https://github.com/Ore-A/HPC-Turbofan-ML.git)
 
 - <b>Python</b>
+  - [FlyByWire Control System](https://github.com/Ore-A/AERE364X_S24_Group4)
   - [Aerodynamics-II](https://github.com/Ore-A/Aerodynamics-II.git)
 
 - <b>MATLAB</b>
