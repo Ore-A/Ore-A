@@ -1,6 +1,6 @@
 <h1>Hi, I'm Oreoluwa! </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>0👨🏿‍💻 Software Development Projects:</h2>
 
 - <b>C/C++</b>
   - [Circuit Solver](https://github.com/Ore-A/Circuit-Solver.git)
